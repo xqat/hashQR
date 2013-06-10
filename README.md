@@ -1,0 +1,1 @@
+see http://hashQR.com for details
